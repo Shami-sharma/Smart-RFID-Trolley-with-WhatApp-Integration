@@ -142,4 +142,4 @@ This project demonstrates a smart IoT-based billing system that improves shoppin
 ---
 
 ## Author
-Debashish mishra
+shami kumar
